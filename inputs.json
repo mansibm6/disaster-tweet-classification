@@ -1,0 +1,6 @@
+{
+  "required": [
+    "train.csv",
+    "test.csv"
+  ]
+}
